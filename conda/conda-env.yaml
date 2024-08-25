@@ -1,0 +1,15 @@
+name: imu-uwb-inekf
+channels:
+- conda-forge
+dependencies:
+- jinja2
+- mamba
+- matplotlib
+- numpy
+- pandas
+- pyquaternion
+- python
+- pyyaml
+- scikit-learn
+- scipy
+- tqdm
